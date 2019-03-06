@@ -1,4 +1,5 @@
-# Week 4: Capstone Project - The Battle of Neighborhoods Project:
+# Week 4: 
+# Capstone Project - The Battle of Neighborhoods Project:
 
 ## Title:  Comparing Neighborhoods in LA to SF an NY
 
